@@ -27,14 +27,13 @@ namespace MeuProjetoConsole
             // Calculando a área do triângulo
             // Usando a fórmula de Heron
 
-            double px = (x.A + x.B + x.C) / 2.0;
-            double areaX = Math.Sqrt(px * (px - x.A) * (px - x.B) * (px - x.C));
 
-            double py = (y.A + y.B + y.C) / 2.0;
-            double areaY = Math.Sqrt(py * (py - y.A) * (py - y.B) * (py - y.C));    
+            double areaX = x.Area();
+            double areaY = y.Area();
 
             Console.WriteLine("Área de X: " + areaX.ToString("F4"));
             Console.WriteLine("Área de Y: " + areaY.ToString("F4"));
+
             if (areaX > areaY)
             {
                 Console.WriteLine("Maior área: X");
