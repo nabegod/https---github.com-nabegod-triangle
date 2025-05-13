@@ -1,0 +1,15 @@
+C:\Users\W517280\Desktop\triangle\MeuProjetoConsole\bin\Debug\net6.0\MeuProjetoConsole.exe
+C:\Users\W517280\Desktop\triangle\MeuProjetoConsole\bin\Debug\net6.0\MeuProjetoConsole.deps.json
+C:\Users\W517280\Desktop\triangle\MeuProjetoConsole\bin\Debug\net6.0\MeuProjetoConsole.runtimeconfig.json
+C:\Users\W517280\Desktop\triangle\MeuProjetoConsole\bin\Debug\net6.0\MeuProjetoConsole.dll
+C:\Users\W517280\Desktop\triangle\MeuProjetoConsole\bin\Debug\net6.0\MeuProjetoConsole.pdb
+C:\Users\W517280\Desktop\triangle\MeuProjetoConsole\obj\Debug\net6.0\MeuProjetoConsole.csproj.AssemblyReference.cache
+C:\Users\W517280\Desktop\triangle\MeuProjetoConsole\obj\Debug\net6.0\MeuProjetoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W517280\Desktop\triangle\MeuProjetoConsole\obj\Debug\net6.0\MeuProjetoConsole.AssemblyInfoInputs.cache
+C:\Users\W517280\Desktop\triangle\MeuProjetoConsole\obj\Debug\net6.0\MeuProjetoConsole.AssemblyInfo.cs
+C:\Users\W517280\Desktop\triangle\MeuProjetoConsole\obj\Debug\net6.0\MeuProjetoConsole.csproj.CoreCompileInputs.cache
+C:\Users\W517280\Desktop\triangle\MeuProjetoConsole\obj\Debug\net6.0\MeuProjetoConsole.dll
+C:\Users\W517280\Desktop\triangle\MeuProjetoConsole\obj\Debug\net6.0\refint\MeuProjetoConsole.dll
+C:\Users\W517280\Desktop\triangle\MeuProjetoConsole\obj\Debug\net6.0\MeuProjetoConsole.pdb
+C:\Users\W517280\Desktop\triangle\MeuProjetoConsole\obj\Debug\net6.0\MeuProjetoConsole.genruntimeconfig.cache
+C:\Users\W517280\Desktop\triangle\MeuProjetoConsole\obj\Debug\net6.0\ref\MeuProjetoConsole.dll
